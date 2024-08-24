@@ -13,6 +13,8 @@ function App() {
                 Pokaż szczegół ze skryptem
             </button>
             {isDetailsShown && <DetailWithExternalScript />}
+            {isDetailsShown && <DetailWithExternalScript />}
+            {isDetailsShown && <DetailWithExternalScript />}
         </>
     );
 }
